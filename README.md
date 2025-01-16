@@ -1,8 +1,9 @@
 # SoftUni-Fundamentals-2025-01 🏫
-In this repository there are solutions to tasks from the programming Fundamentals course with Python of the software academy of SoftUni University 
+
+This repository contains solutions to tasks from the Programming Fundamentals with Python course at SoftUni University. It is part of the Software Academy program designed to introduce students to basic programming concepts using Python. The solutions cover essential topics such as variables, loops, conditional statements, functions, and data structures. Each solution provides a clear and well-documented approach to solving common programming challenges. The repository is a great resource for students to strengthen their understanding of Python and enhance their problem-solving skills. The tasks include working with basic data types, control flow, functions, and collections like lists and dictionaries. These exercises help students build a solid foundation for more advanced programming topics. This collection is ideal for anyone learning Python or looking to review fundamental programming concepts. The repository serves as both a learning tool and a reference for best practices. By studying these solutions, students can deepen their knowledge and gain confidence in Python programming.
 
 Lecturer of course - **[Mario Zahariev](https://www.linkedin.com/in/mario-zahariev-753a7b202/)** 🐱‍🚀
-
+ 
 Online judge system - **https://judge.softuni.org/** 📊 
   
 ![2048_d5964e5351708047190e99b52500b47a](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/assets/68993494/119a51ec-0428-4da7-801f-462140fb9cc7)
@@ -13,12 +14,16 @@ Online judge system - **https://judge.softuni.org/** 📊
  
 ## Theory Тests:
 ➡ [**Basic Syntax - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/TEST%20-%20Basic%20Syntax,%20Conditional%20Statements,%20and%20Loops.md)
+
+➡ [**Python Variables and Data Types - Test**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/Python%20Variables%20and%20Data%20Types%20-%20Test.md)
  
-## Technology Stack: 
+## Technology Stack:  
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,html,css,linux,apple,windows&theme=light)](https://skillicons.dev)
 
 ## Practical Tasks: 
 ➡ [**Python Pattern Drawing**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/Python%20Pattern%20Drawing%20Project.md)
+
+➡ [**Personal Fitness Tracker System**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/Personal%20Fitness%20Tracker%20System.md)
 
 <br>
 
