@@ -29,7 +29,6 @@ while True:
 
     # Step 4: Generate the selected pattern
     if choice == 1:  # Right-angled Triangle
-        # TODO: Loop through rows and print increasing stars
 
         for row in range(1, rows + 1):
             for col in range(1, row + 1):
@@ -37,7 +36,6 @@ while True:
             print()
 
     elif choice == 2:  # Square with Hollow Center
-        # TODO: Create a square with a hollow center
 
         for row in range(1, size + 1):
 
@@ -54,7 +52,6 @@ while True:
             print()
 
     elif choice == 3:  # Diamond
-        # TODO: Create a diamond shape using loops
         for row in range(1, rows + 1):
             spc = " " * (rows - row)
             print(spc + (Fore.MAGENTA + "*" * (2 * row - 1)) + spc)
@@ -64,7 +61,6 @@ while True:
             print(spc + (Fore.CYAN + "*" * (2 * row - 1)) + spc)
 
     elif choice == 4:  # Left-angled Triangle
-        # TODO: Print decreasing stars for each row
 
         for row in range(1, rows + 1):
             for col in range((rows + 1) - row):
@@ -72,7 +68,6 @@ while True:
             print()
 
     elif choice == 5:  # Hollow Square
-        # TODO: Similar to choice 2 but ensure perfect square logic
         for row in range(1, size + 1):
 
             if row == 1 or row == size:
@@ -88,7 +83,6 @@ while True:
             print()
 
     elif choice == 6:  # Pyramid
-        # TODO: Center-align stars to form a pyramid
         for row in range(1, rows + 1):
             spc = " " * (rows - row)
             print(spc + (Fore.LIGHTMAGENTA_EX + "*" * (2 * row - 1)) + spc)
@@ -96,13 +90,11 @@ while True:
 
 
     elif choice == 7:  # Reverse Pyramid
-        # TODO: Create an upside-down pyramid
         for row in range(rows, 0, -1):
             spc = " " * (rows - row)
             print(spc + (Fore.LIGHTRED_EX + "*" * (2 * row - 1)) + spc)
 
     elif choice == 8:  # Rectangle with Hollow Center
-        # TODO: Handle separate width and height inputs for rectangle
         width = int(input("Enter the width of the rectangle: "))
         height = int(input("Enter the height of the rectangle: "))
 
